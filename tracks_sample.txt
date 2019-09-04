@@ -1,0 +1,17 @@
+00:00:00,00:00:41,1_Intro
+00:00:41,00:09:39,2_Luttrell
+00:09:39,00:17:57,3_Timberlake Road
+00:17:57,00:28:05,4_Angelina
+00:28:05,00:34:29,5_Drive Time
+00:34:29,00:45:48,6_Endless Road
+00:45:48,00:58:07,7_Gameshow Rag Cannonball Rag
+00:58:07,01:07:03,8_The Man With The Green Thumb
+01:07:03,01:16:39,9_Diggers' Waltz
+01:16:39,01:26:55,10_Lewis and Clark
+01:26:55,01:35:36,11_Mombasa
+01:35:36,01:47:53,12_The Mystery
+01:47:53,01:58:57,13_Those Who Wait
+01:58:57,02:08:36,14_Antonella's Birthday
+02:08:36,02:16:56,15_Tall Fiddler
+02:16:56,02:25:48,16_Old Town
+02:25:48,02:32:06,17_Train to Dusseldorf
